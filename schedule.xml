@@ -2,60 +2,6 @@
 <tv generator-info-name="CyprusEPG">
   <channel id="Sigma"><display-name>Sigma TV</display-name></channel>
   <channel id="ANT1"><display-name>ANT1 Cyprus</display-name></channel>
-  <programme channel="Sigma" start="20260908051000 +0300" stop="20260908055500 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260908055500 +0300" stop="20260908064000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260908064000 +0300" stop="20260908100500 +0300">
-    <title>Πρωτοσέλιδο</title>
-  </programme>
-  <programme channel="Sigma" start="20260908100500 +0300" stop="20260908105800 +0300">
-    <title>ΖΩ ΚΑΛΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260908105800 +0300" stop="20260908133500 +0300">
-    <title>Μεσημέρι και Κάτι</title>
-  </programme>
-  <programme channel="Sigma" start="20260908133500 +0300" stop="20260908140000 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260908140000 +0300" stop="20260908142500 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260908142500 +0300" stop="20260908145000 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260908145000 +0300" stop="20260908174000 +0300">
-    <title>STUDIO ΣΤΙΣ 3</title>
-  </programme>
-  <programme channel="Sigma" start="20260908174000 +0300" stop="20260908181500 +0300">
-    <title>ΓΑΛΑΤΕΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260908181500 +0300" stop="20260908195000 +0300">
-    <title>ΓΑΛΑΤΕΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260908195000 +0300" stop="20260908210500 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20260908210500 +0300" stop="20260908223500 +0300">
-    <title>ONE FOR THE MONEY</title>
-  </programme>
-  <programme channel="Sigma" start="20260908223500 +0300" stop="20260908232000 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260908232000 +0300" stop="20260909001500 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260909001500 +0300" stop="20260909012000 +0300">
-    <title>JACK IRISH</title>
-  </programme>
-  <programme channel="Sigma" start="20260909012000 +0300" stop="20260909041000 +0300">
-    <title>STUDIO ΣΤΙΣ 3</title>
-  </programme>
-  <programme channel="Sigma" start="20260909041000 +0300" stop="20260909050500 +0300">
-    <title>ΠΡΟΔΟΣΙΕΣ</title>
-  </programme>
   <programme channel="Sigma" start="20260909050500 +0300" stop="20260909055500 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
@@ -167,62 +113,8 @@
   <programme channel="Sigma" start="20260911042500 +0300" stop="20260911051000 +0300">
     <title>ΠΡΟΔΟΣΙΕΣ</title>
   </programme>
-  <programme channel="Sigma" start="20260911051000 +0300" stop="20260911051000 +0300">
+  <programme channel="Sigma" start="20260911051000 +0300" stop="20260912050500 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260911051000 +0300" stop="20260911055500 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260911055500 +0300" stop="20260911064000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260911064000 +0300" stop="20260911100500 +0300">
-    <title>Πρωτοσέλιδο</title>
-  </programme>
-  <programme channel="Sigma" start="20260911100500 +0300" stop="20260911105800 +0300">
-    <title>ΖΩ ΚΑΛΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260911105800 +0300" stop="20260911133500 +0300">
-    <title>Μεσημέρι και Κάτι</title>
-  </programme>
-  <programme channel="Sigma" start="20260911133500 +0300" stop="20260911140000 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260911140000 +0300" stop="20260911142500 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260911142500 +0300" stop="20260911145000 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260911145000 +0300" stop="20260911174000 +0300">
-    <title>STUDIO ΣΤΙΣ 3</title>
-  </programme>
-  <programme channel="Sigma" start="20260911174000 +0300" stop="20260911181500 +0300">
-    <title>ΓΑΛΑΤΕΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260911181500 +0300" stop="20260911195000 +0300">
-    <title>ΓΑΛΑΤΕΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260911195000 +0300" stop="20260911210500 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20260911210500 +0300" stop="20260911223500 +0300">
-    <title>ONE FOR THE MONEY</title>
-  </programme>
-  <programme channel="Sigma" start="20260911223500 +0300" stop="20260911232000 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260911232000 +0300" stop="20260912001500 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260912001500 +0300" stop="20260912012000 +0300">
-    <title>JACK IRISH</title>
-  </programme>
-  <programme channel="Sigma" start="20260912012000 +0300" stop="20260912041000 +0300">
-    <title>STUDIO ΣΤΙΣ 3</title>
-  </programme>
-  <programme channel="Sigma" start="20260912041000 +0300" stop="20260912050500 +0300">
-    <title>ΠΡΟΔΟΣΙΕΣ</title>
   </programme>
   <programme channel="Sigma" start="20260912050500 +0300" stop="20260912055500 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
